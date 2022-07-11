@@ -1,3 +1,4 @@
 # Test-Conflict2
 Hello
 I am a programmer
+I am a manager
